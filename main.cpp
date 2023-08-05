@@ -52,85 +52,90 @@ arm.rotateCounterClockwise();           // 4) demonstrates camelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: angryDog
+//  action 1: the dog chases the postman
+angryDog.chasePostman();
+//  action 2: the dog barks
+angryDog.bark();
+//  action 3: the dog chews the slippers
+angryDark.chewSlippers();
 
 //  2)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: trafficLights
+//  action 1: the traffic lights turn red
+trafficLights.turnRed();
+//  action 2: the traffic lights turn green
+trafficLights.turnGreen();
+//  action 3: the traffic lights break
+trafficLights.break();
 
 //  3)
-//  Noun:
-//  action 1:
+//  Noun: shark
+//  action 1: the shark swims
+shark.swim();
+//  action 2: the shark eats a fish
+shark.eatFish();
+//  action 3: the shark attacks the boat
+shark.attackBoat();
 
-//  action 2:
-
-//  action 3:
-
-//  4)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  4) 
+//  Noun: cyclist
+//  action 1: The cyclist rides their bike
+cyclist.rideBike();
+//  action 2: The cyclist pedals faster.
+cyclist.pedalFast();
+//  action 3: The cyclist falls off the bike
+cylist.fallOffBike();
 
 //  5)
-//  Noun:
-//  action 1:
+//  Noun: flea
+//  action 1: the flea hops
+flea.hop();
+//  action 2: the flea bites the dog
+flea.biteDog();
+//  action 3: the flea dies
+flea.die();
 
-//  action 2:
-
-//  action 3:
-
-//  6)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  6) 
+//  Noun: mouth
+//  action 1: the mouth talks
+mouth.talk();
+//  action 2: the mouth chews
+mouth.chew();
+//  action 3: the mouth smiles
+mouth.smile();
 //  7)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: clock
+//  action 1: the clock ticks
+clock.tick();
+//  action 2: the clock tocks
+clock.tock();
+//  action 3: the clock chimes
+clock.chime();
 //  8)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: tree
+//  action 1: the tree grows
+tree.grow();
+//  action 2: the tree sways
+tree.sway();
+//  action 3: the tree falls over
+tree.fallOver();
 //  9)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: mouse
+//  action 1: the mouse squeaks
+mouse.squeak();
+//  action 2: the mouse sniffs
+mouse.sniff();
+//  action 3: the mouse outwits the cat
+mouse.outwitCat();
 //  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: sun
+//  action 1: the sun burns
+sun.burns();
+//  action 2: the sun explodes
+sun.explode();
+//  action 3: the sun goes supernova
+sun.goSupernova();
 
 
 #endif
